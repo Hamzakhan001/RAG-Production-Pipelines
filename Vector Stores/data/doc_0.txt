@@ -1,0 +1,11 @@
+Machine learning (ML) and Generative AI (GenAI) are both subsets of Artificial Intelligence (AI), but they have distinct purposes. ML focuses on enabling systems to learn from data and make predictions or decisions, while GenAI aims to generate new, original content like text, images, or music. 
+Machine Learning (ML):
+Definition:
+ML is a field of AI that focuses on developing algorithms that allow computers to learn from data without explicit programming. 
+Key Idea:
+ML algorithms analyze data, identify patterns, and make predictions or decisions based on that data. 
+Examples:
+Image recognition: Identifying objects in images. 
+Fraud detection: Identifying fraudulent transactions. 
+Recommendation systems: Suggesting products or content based on user preferences. 
+Predictive maintenance: Predicting when equipment will need maintenance. 
